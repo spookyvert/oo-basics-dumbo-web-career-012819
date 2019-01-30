@@ -1,3 +1,4 @@
 class Book
-def ini
+  def initialize
+  end
 end
